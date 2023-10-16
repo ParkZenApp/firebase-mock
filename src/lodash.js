@@ -31,7 +31,7 @@ module.exports = {
   keys: require('lodash.keys'),
   map: require('lodash.map'),
   merge: require('lodash.merge'),
-  mergeWith: require('lodash.mergeWith'),
+  mergeWith: require('lodash.mergewith'),
   noop: require('lodash.noop'),
   orderBy: require('lodash.orderby'),
   reduce: require('lodash.reduce'),
